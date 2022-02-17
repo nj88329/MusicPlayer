@@ -751,29 +751,16 @@ aside{
  	
  }
  .desc{
- font-size: 0;
+ font-size: 1;
   }
 
 }
 @media screen and (max-width: 450px) {
 	.jumbotron-image img
 	{
-	 height:0vh;
+	 height:vh;
  }
 /* .desc{
  	font-size:0.5rem;
  }
 */}
-/*@media screen and (max-width: 300px) {
-	.jumbotron-image img
-	{
-	 height:2vh;
- }*/
- /*.desc{
- 	font-size:0.5rem;
- }
-*/  /*.jumbotron{
- 	width: 40%;
- 	height: 75vh;
- }*/
-
